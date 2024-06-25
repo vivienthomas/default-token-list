@@ -1,0 +1,53 @@
+{
+  "name": "DTX TESTNET",
+  "logoURI": "https://dtx.trade/apple-touch-icon.png",
+  "keywords": ["defi"],
+  "timestamp": "2024-06-06T00:00:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 84532,
+      "address": "0x696441D552711F1fE884c63fbcB200ddc0De4b89",
+      "name": "Lido DAO",
+      "symbol": "LDO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13573/standard/Lido_DAO.png?1696513326"
+    },
+    {
+      "chainId": 84532,
+      "address": "0xe48C0219aC64FAD7cf1bAc44a93449c2c2f08f99",
+      "name": "Celestia",
+      "symbol": "TIA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31967/standard/tia.jpg?1696530772"
+    },
+    {
+      "chainId": 84532,
+      "address": "0x9577C8A4Bc26f02Ca7A3C8975F6E3A1ecE7FaF7b",
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656"
+    },
+    {
+      "chainId": 84532,
+      "address": "0x9c856251e301C72f3e089D74920a8C3aa77035D2",
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31924/standard/pyth.png?1701245725"
+    },
+    {
+      "chainId": 84532,
+      "address": "0x48F69d8bf72B2C725E3b1d380178a70BD5A42785",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  }
+}
